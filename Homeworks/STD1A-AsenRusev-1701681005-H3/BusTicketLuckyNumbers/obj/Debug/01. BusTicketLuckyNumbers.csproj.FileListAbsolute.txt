@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\bin\Debug\BusTicketLuckyNumbers.exe.config
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\bin\Debug\BusTicketLuckyNumbers.exe
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\bin\Debug\BusTicketLuckyNumbers.pdb
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\obj\Debug\01. BusTicketLuckyNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\obj\Debug\BusTicketLuckyNumbers.exe
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\BusTicketLuckyNumbers\obj\Debug\BusTicketLuckyNumbers.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\bin\Debug\SimpleDeckOfCards.exe.config
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\bin\Debug\SimpleDeckOfCards.exe
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\bin\Debug\SimpleDeckOfCards.pdb
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\obj\Debug\03. SimpleDeckOfCards.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\obj\Debug\03. SimpleDeckOfCards.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\obj\Debug\SimpleDeckOfCards.exe
+D:\Projects\Visual Studio\University\STD1A-AsenRusev-1701681005-H3\SimpleDeckOfCards\obj\Debug\SimpleDeckOfCards.pdb
